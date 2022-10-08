@@ -1,1 +1,1 @@
-# Ecommerce-App-NextJS-Tailwind-PlanetScale-Stripegit init
+# Ecommerce-App-NextJS-Tailwind-PlanetScale-Stripe
