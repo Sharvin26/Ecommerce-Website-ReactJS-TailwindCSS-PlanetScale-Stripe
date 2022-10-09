@@ -1,1 +1,1 @@
-# Ecommerce-App-NextJS-Tailwind-PlanetScale-Stripe
+# Ecommerce-Website-ReactJS-TailwindCSS-PlanetScale-Stripe
