@@ -50,7 +50,7 @@ const ProductGrid = (props: IProductGrid) => {
                                         layout="responsive"
                                         width="25"
                                         height="25"
-                                        src={`${product.image}/tech`}
+                                        src={`${product.image}`}
                                         alt={product.title}
                                         className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                                     />

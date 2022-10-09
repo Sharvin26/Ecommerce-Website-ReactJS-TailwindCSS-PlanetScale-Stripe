@@ -58,7 +58,6 @@ const SingleCategory = () => {
     });
 
     if (data?.pages[data?.pages.length - 1]?.category?.products.length === 0) {
-        console.log("inside");
         allProductsWithCategory.hasMore = false;
     }
 
